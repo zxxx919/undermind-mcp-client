@@ -1,0 +1,16 @@
+{
+  "client_id": "https://zxxx919.github.io/undermind-mcp-client/client-metadata.json",
+  "client_name": "DeepSeek Harness · Undermind MCP bridge",
+  "client_uri": "https://github.com/zxxx919/undermind-mcp-client",
+  "redirect_uris": [
+    "http://127.0.0.1:53682/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
